@@ -1,4 +1,4 @@
-### Hey! Sou o Alan Soares Lima
+### Hey! Eu sou o Alan Soares Lima
 
 - 👨🏻‍💻 Atualmente cursando Desenvolvimento de Sistemas
 - 🌱 Buscando por oportunidades de crescimento

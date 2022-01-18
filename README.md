@@ -1,6 +1,7 @@
 ### Hey! Eu sou o Alan Soares Lima
 
-- 👨🏻‍💻 Atualmente cursando Desenvolvimento de Sistemas
+- 👨🏻‍💻 Cursando Superior em Análise e Desenvolvimento de Sistemas
+- 💻 Cursando Técnico em Desenvolvimento de Sistemas
 - 🌱 Buscando por oportunidades de crescimento
 - 📚 Procuro evoluir meus conhecimentos
   

@@ -1,7 +1,7 @@
 ### Hey! Eu sou o Alan Soares Lima
 
-- 👨🏻‍💻 Cursando Superior em Análise e Desenvolvimento de Sistemas
-- 💻 Cursando Técnico em Desenvolvimento de Sistemas
+- 👨🏻‍💻 Desenvolvedor Back-End Jr. (JAVA, PHP, JS, PYTHON)
+- 💻 ADS
 - 🌱 Buscando por oportunidades de crescimento
 - 📚 Procuro evoluir meus conhecimentos
   

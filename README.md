@@ -1,6 +1,6 @@
 ### Hey! Eu sou o Alan Soares Lima
 
-- 👨🏻‍💻 Desenvolvedor Back-End Jr. (JAVA, PHP, JS, PYTHON)
+- 👨🏻‍💻 Desenvolvedor Back-End (JAVA, PHP, JS, PYTHON)
 - 💻 ADS
 - 🌱 Buscando por oportunidades de crescimento
 - 📚 Procuro evoluir meus conhecimentos

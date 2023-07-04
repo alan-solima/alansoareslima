@@ -1,9 +1,9 @@
-### Alan Solima aqui!
+### Alan Solima's here!
 
-- 👨🏻‍💻 Desenvolvedor Back-End JR. (JAVA, PHP, JS, PYTHON)
-- 💻 ADS
-- 🌱 Buscando por oportunidades de crescimento
-- 📚 Procuro evoluir meus conhecimentos
+- 👨🏻‍💻 Dev Back-End JR.
+- 💻 Systems Analysis and Development
+- 🌱 Almost 2 years working as a Programmer.
+- 📚 Always learning something new
   
 <div align="center">
   <a href="https://github.com/alansoareslima">

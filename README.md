@@ -1,6 +1,6 @@
-### Hey! Eu sou o Alan Soares Lima
+### Alan Solima aqui!
 
-- 👨🏻‍💻 Desenvolvedor Back-End (JAVA, PHP, JS, PYTHON)
+- 👨🏻‍💻 Desenvolvedor Back-End JR. (JAVA, PHP, JS, PYTHON)
 - 💻 ADS
 - 🌱 Buscando por oportunidades de crescimento
 - 📚 Procuro evoluir meus conhecimentos

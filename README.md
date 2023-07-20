@@ -48,6 +48,10 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
 
 
 
+
+
+
+
 ## Technologies
 
 ### Programming Languages and Tools

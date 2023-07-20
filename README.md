@@ -193,19 +193,19 @@ if you love my work then buy me a coffee 😊 <br>
 <br>
 <div align="center">
    <a href="https://github.com/alansoareslima" target="blank">
-    <img alt="GitHub" src="https://img.shields.io/github/followers/alansolima?style=for-the-badge&label=@alansoareslima&logo=github"/>
+    <img alt="GitHub" src="https://img.shields.io/github/followers/alansoareslima?style=for-the-badge&label=GitHub&logo=github"/>
 </a>
 <a href="https://twitter.com/alansolimaa" target="blank">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/alansolima?style=for-the-badge&label=@alansolimaa&logo=twitter">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/alansolimaa?style=for-the-badge&label=Twitter&logo=twitter">
 </a>
 <a href="https://linkedin.com/in/alansoareslima" target="blank">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=@alansoareslima&style=for-the-badge&color=0A66C2&logo=linkedin" />
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=LinkedIn&style=for-the-badge&color=0A66C2&logo=linkedin" />
 </a>
 <!-- <a href="https://t.me/alansolima">
     <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@alansolima&style=for-the-badge&color=26A5E4&logo=telegram&logoColor=whitesmoke" />
 </a> -->
 <a href="https://www.instagram.com/alansolima/" target="blank">
-    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@alansolima&style=for-the-badge&color=E4405F&logo=instagram&logoColor=whitesmoke" />
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=Instagram&style=for-the-badge&color=E4405F&logo=instagram&logoColor=whitesmoke" />
 </a>
 </div>
 <br>

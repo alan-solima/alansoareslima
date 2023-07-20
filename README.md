@@ -13,6 +13,7 @@
     <a href="https://instagram.com/alansolima" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.buymeacoffee.com/alansolima" target="_blank"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
+
 <!--End of Social media-->
 
 <!-- About Me -->
@@ -46,31 +47,6 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
 - 💡 [More **about me**](https://www.linkedin.com/in/alansoareslima)
 
 
-
-
-## Spotify Playing 🎶
-<p align="left">
-    <a href="https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=HROZ4_YzSh-W9k_PVxsYPA" target="blank">
-        <img alt="Coding Mode" title="Coding Mode" src="https://img.shields.io/badge/Coding%20Mode-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
-    </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://open.spotify.com/playlist/7h1NoxhrNz9pdJtpOkm2ms?si=PYyH___gSh68J_M0KCZIqg" target="blank">
-        <img alt="Dark Ambient" title="Dark Ambient" src="https://img.shields.io/badge/Dark%20Ambient-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
-    </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://open.spotify.com/track/57XX5lunkZduocIt8C5CmI?si=K2gCl4fkRG6JJtw48MCkJQ" target="blank">
-        <img alt="Top Gear" title="Top Gear" src="https://img.shields.io/badge/Top%20Gear%20Soundtrack-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
-    </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--     <a href="https://open.spotify.com/user/pk4zrqptjre5nw12f5czvzc6b">
-        <img alt="Solima Spoti list" title="Solima Spoti list" src="https://readme-spotify.warengonzaga.com/api/spotify" />
-    </a> -->
-</p>
-<p>
-    <a href="https://open.spotify.com/playlist/37i9dQZF1DX50MDbDwt4w8" target="blank">
-        <img alt="Mix Music" title="Mix Music" src="https://media.tenor.com/XLnJxScKc3EAAAAC/car-animation.gif" style="width:396px;" />
-    </a>
-</p>
 
 ## Technologies
 
@@ -145,6 +121,33 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
       </a> 
     </p>
 </div>
+
+## Spotify Playing 🎶
+<p align="left">
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=HROZ4_YzSh-W9k_PVxsYPA" target="blank">
+        <img alt="Coding Mode" title="Coding Mode" src="https://img.shields.io/badge/Coding%20Mode-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
+    </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://open.spotify.com/playlist/7h1NoxhrNz9pdJtpOkm2ms?si=PYyH___gSh68J_M0KCZIqg" target="blank">
+        <img alt="Dark Ambient" title="Dark Ambient" src="https://img.shields.io/badge/Dark%20Ambient-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
+    </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://open.spotify.com/track/57XX5lunkZduocIt8C5CmI?si=K2gCl4fkRG6JJtw48MCkJQ" target="blank">
+        <img alt="Top Gear" title="Top Gear" src="https://img.shields.io/badge/Top%20Gear%20Soundtrack-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
+    </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--     <a href="https://open.spotify.com/user/pk4zrqptjre5nw12f5czvzc6b">
+        <img alt="Solima Spoti list" title="Solima Spoti list" src="https://readme-spotify.warengonzaga.com/api/spotify" />
+    </a> -->
+</p>
+<p>
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DX50MDbDwt4w8" target="blank">
+        <img alt="Mix Music" title="Mix Music" src="https://media.tenor.com/XLnJxScKc3EAAAAC/car-animation.gif" style="width:396px;" />
+    </a>
+</p>
+
+## 🎮 Discord stats 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=589904250713407574)
 
 ## :octocat: Github stats
 

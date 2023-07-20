@@ -68,7 +68,7 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
 </p>
 <p>
     <a href="https://open.spotify.com/playlist/37i9dQZF1DX50MDbDwt4w8" target="blank">
-        <img alt="Mix Music" title="Mix Music" src="https://media.tenor.com/XLnJxScKc3EAAAAC/car-animation.gif" style="width:395px;" />
+        <img alt="Mix Music" title="Mix Music" src="https://media.tenor.com/XLnJxScKc3EAAAAC/car-animation.gif" style="width:396px;" />
     </a>
 </p>
 ## Technologies

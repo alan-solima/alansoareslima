@@ -1,33 +1,289 @@
-<h1 align="center">Hi 👋, I'm Alan Solima</h1>
-<h3 align="center">A passionate backend developer from Sao Paulo - Brazil</h3>
+<div align="center">
+    <img width="100%" alt="welcome to my profile!" src="https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alansoareslima&label=Profile%20views&color=0e75b6&style=flat" alt="alansoareslima" /> </p>
+<!--Social media-->
+<p align="center">
+    <!--<a href="https://facebook.com/mosh3eb" target="blank"><img alt="facebook" title="facebookfacebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;-->
+  <a href="mailto:alancontato03@gmail.com" target="blank"><img alt="gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://twitter.com/alansolimaa" target="blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.linkedin.com/in/alansoareslima" target="blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://instagram.com/alansolima" target="blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.buymeacoffee.com/alansolima"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
+</p>
+<!--End of Social media-->
 
-<p align="left"> <a href="https://twitter.com/alansolimaa" target="blank"><img src="https://img.shields.io/twitter/follow/alansolimaa?logo=twitter&style=for-the-badge" alt="alansolimaa" /></a> </p>
-
-- 🌱 I’m currently learning **JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB**
-
-- 👨‍💻 All of my projects are available at [https://github.com/alansoareslima](https://github.com/alansoareslima)
-
-- 📫 How to reach me **alancontato03@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<!-- About Me -->
+### <img src="https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/cat-float.gif" width="30"> About Me
 <p align="left">
-<a href="https://dev.to/alansolima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alansolima" height="30" width="40" /></a>
-<a href="https://twitter.com/alansolimaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alansolimaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alansoareslima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alansoareslima" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16443673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16443673" height="30" width="40" /></a>
-<a href="https://instagram.com/alansolima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alansolima" height="30" width="40" /></a>
+  <a href="https://www.twitter.com/alansolimaa" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/alansolimaa?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
+  </a>
+  <a href="https://www.linkedin.com/in/alansoareslima">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&duration=4200&&size=24&width=500&lines=Hi+There+I+Am+Alan++;A+Back-End+Developer;Experienced+Full-Stack+Development;1,5%2B+Years+Coding+Experience;Always+Learning+New+Things" alt="Typing SVG" /></a>
+</p>
+A  Trainee/Junior Back-End Developer, Tech Lover, Analysis and Systems Development Student from Sao Paulo/Brazil.
+
+
+- :telescope: I’m working as a **Full-stack Developer** and contributing to **Back-end** for **building and maintenance web applications** using PHP and Java.
+
+- :seedling: **Exploring** a new world of possibilities.
+
+- :zap: In my **free time**, I go to the **Gym**, usually read **Books**, listen to **Music** and a lot of things else.
+
+- 💻 **Studying and Coding** whenever possible, aiming to specialize in other technologies.
+
+- :mailbox: How to reach me: **alancontato03@gmail.com**.
+
+- ☕ Coffee **lover** , [buy me a coffee](https://www.buymeacoffee.com/CoderMo)!
+
+- 💡 [More **about me**](https://www.linkedin.com/in/alansoareslima).
+
+
+
+
+## Spotify Playing 🎶
+<p align="left">
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="blank"><img alt="Top Hits Music" title="Top Hits Music" src="https://img.shields.io/badge/Top%20Hits%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ" target="blank"><img alt="Programming Music" title="Programming Music" src="https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" /></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://open.spotify.com/playlist/3QSmfNR2XtpoADu0QPGVJK" target="blank"><img alt="Trending Music" title="Trending Music" src="https://img.shields.io/badge/Trending%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DX50MDbDwt4w8" target="blank"><img alt="Mix Music" title="Mix Music" src="https://img.shields.io/badge/Mix%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://open.spotify.com/user/31g4av26k3364swn55a5u4xcxaoa"><img alt="CoderMo Spoti list" title="CoderMo Spoti list" src="https://readme-spotify.warengonzaga.com/api/spotify" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## Technologies
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/alansolima"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alansolima" /></a></p><br><br>
+### Programming Languages and Tools
+<!--Language section-->
+<div align="left">
+    <p align="left"> 
+      <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+      </a>
+      <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
+      </a> 
+      <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+      </a> 
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+      </a>
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="workbench" width="40" height="40"/> 
+      </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+      </a> 
+      <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+      </a> 
+        <a href="https://subversion.apache.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original.svg" alt="subversion" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+      </a>  
+      <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> 
+      </a>
+      <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> 
+      </a> 
+      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
+      </a> 
+      <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
+      </a> 
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+      </a> 
+      <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" alt="eclipse" width="40" height="40"/> 
+      </a> 
+      <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png?20180920122700" alt="netbeans" width="40" height="40"/> 
+      </a> 
+    </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alansoareslima&show_icons=true&locale=en&layout=compact" alt="alansoareslima" /></p>
+<!-- ## ₣rameworks -->
+<!--Framworks section-->
+<!-- <div align="left">-->
+<!--     <a href="https://github.com/search?q=user%3Amosh3eb+language%3Abootstrap">
+        <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Aangular">
+        <img alt="angular.js" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3ACoder2Mo+language%3Avue">
+        <img alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+    </a>
+    <a href="https://github.com/search?q=user%3ACoder2Mo+language%3Areact">
+        <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    </a>
+    <a href="https://github.com/search?q=user%3ACoder2Mo+language%3Awordpress">
+        <img alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3ACoder2Mo+language%3Aflutter">
+        <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    </a> 
+    </div> -->
+    
+<!-- ## Ṥoftwares and Design Tools -->
+<!--Softwares section-->
+<!-- <div align="left"> -->
+<!--     <a href="#">
+        <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Visual_Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="IntelliJ_IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+    </a>
+    <a href="#">
+        <img alt="Premier" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Effect" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
+    </a>
+    <a href="#">
+        <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="android-studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="stackoverflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="gitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    </a> -->
+<!-- </div> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alansoareslima&show_icons=true&locale=en" alt="alansoareslima" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alansoareslima&" alt="alansoareslima" /></p>
+## :octocat: Github stats
+
+<!-- Start state -->
+<details> 
+  <summary>Profile Stats</summary>
+  <br/>
+     <div align=center>
+        <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+            <img alt="Mosh3eb's state" src="https://github-readme-streak-stats.herokuapp.com/?user=alansoareslima&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/>
+        </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mosh3eb's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alansoareslima&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mosh3eb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansoareslima&layout=compact&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/></a>
+  <br/>
+    </div>
+</details>
+<!-- Snake Section -->
+<details>
+  <summary>Snake Contribution</summary>
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img src="https://github.com/alansoareslima/alansoareslima/blob/output/github-contribution-grid-snake.svg" style="max-width:100%;">
+    </a>
+        </div>
+    </details>
+<details>
+    <summary>Achievements</summary>
+    <div align=center>
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img align="center alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=alansoareslima&theme=tokyonight&no-frame=true&column=7">
+  </a>
+    </div>
+</details>
+<details>
+    <summary>Contribution Graph</summary>
+    <div align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=alansoareslima&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"></a>
+        </div>
+</details>
+                                                            
+## Support Me
+if you love my work then buy me a coffee 😊 <br>
+
+<a href="https://www.buymeacoffee.com/alansolima"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<br>
+<br>
+<div align="center">
+   <a href="https://github.com/alansoareslima">
+    <img alt="GitHub" src="https://img.shields.io/github/followers/mosh3eb?style=for-the-badge&label=@alansoareslima&logo=github"/>
+</a>
+<a href="https://twitter.com/alansolimaa">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/mosh3eb?style=for-the-badge&label=@alansolimaa&logo=twitter">
+</a>
+<a href="https://linkedin.com/in/alansoareslima">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=@alansoareslima&style=for-the-badge&color=0A66C2&logo=linkedin" />
+</a>
+<a href="https://t.me/alansolima">
+    <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@alansolima&style=for-the-badge&color=26A5E4&logo=telegram&logoColor=whitesmoke" />
+</a>
+<a href="https://www.instagram.com/alansolima/">
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@alansolima&style=for-the-badge&color=E4405F&logo=instagram&logoColor=whitesmoke" />
+</a>
+</div>
+<br>
+                                                                                                                                
+<div align="center">
+  <img src="https://github.com/tthn0/tthn0/blob/main/Images/Gradients.png"/>
+            </div>
+<div align="center">
+    <img src="https://github.com/tthn0/tthn0/blob/main/Images/Rainbow.gif" width="100%">
+            </div>
+                          
+                                                     
+                                                                                                                                

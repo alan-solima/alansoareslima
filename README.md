@@ -65,6 +65,9 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
     <a href="https://open.spotify.com/playlist/37i9dQZF1DX50MDbDwt4w8" target="blank">
         <img alt="Mix Music" title="Mix Music" src="https://img.shields.io/badge/Mix%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
     </a>
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DX50MDbDwt4w8" target="blank">
+        <img alt="Mix Music" title="Mix Music" src="https://uploads-ssl.webflow.com/63b93c1a944bafcdaf8d9e87/64378d97cf38d235993354e5_Spotify%20Preview.gif" />
+    </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--     <a href="https://open.spotify.com/user/pk4zrqptjre5nw12f5czvzc6b">
         <img alt="Solima Spoti list" title="Solima Spoti list" src="https://readme-spotify.warengonzaga.com/api/spotify" />

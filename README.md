@@ -122,7 +122,7 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
     </p>
 </div>
 
-## Spotify Playing 🎶
+## 🎶 Spotify Playing
 <p align="left">
     <a href="https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=HROZ4_YzSh-W9k_PVxsYPA" target="blank">
         <img alt="Coding Mode" title="Coding Mode" src="https://img.shields.io/badge/Coding%20Mode-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />

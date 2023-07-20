@@ -50,30 +50,27 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
 
 ## Spotify Playing 🎶
 <p align="left">
-    <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="blank">
-        <img alt="Top Hits Music" title="Top Hits Music" src="https://img.shields.io/badge/Top%20Hits%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=HROZ4_YzSh-W9k_PVxsYPA" target="blank">
+        <img alt="Coding Mode" title="Coding Mode" src="https://img.shields.io/badge/Coding%20Mode-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ" target="blank">
-        <img alt="Programming Music" title="Programming Music" src="https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
+    <a href="https://open.spotify.com/playlist/7h1NoxhrNz9pdJtpOkm2ms?si=PYyH___gSh68J_M0KCZIqg" target="blank">
+        <img alt="Dark Ambient" title="Dark Ambient" src="https://img.shields.io/badge/Dark%20Ambient-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://open.spotify.com/playlist/3QSmfNR2XtpoADu0QPGVJK" target="blank">
-        <img alt="Trending Music" title="Trending Music" src="https://img.shields.io/badge/Trending%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
-    </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://open.spotify.com/playlist/37i9dQZF1DX50MDbDwt4w8" target="blank">
-        <img alt="Mix Music" title="Mix Music" src="https://img.shields.io/badge/Mix%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
-    </a>
-    <a href="https://open.spotify.com/playlist/37i9dQZF1DX50MDbDwt4w8" target="blank">
-        <img alt="Mix Music" title="Mix Music" src="https://uploads-ssl.webflow.com/63b93c1a944bafcdaf8d9e87/64378d97cf38d235993354e5_Spotify%20Preview.gif" />
+    <a href="https://open.spotify.com/track/57XX5lunkZduocIt8C5CmI?si=K2gCl4fkRG6JJtw48MCkJQ" target="blank">
+        <img alt="Top Gear" title="Top Gear" src="https://img.shields.io/badge/Top%20Gear%20Soundtrack-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--     <a href="https://open.spotify.com/user/pk4zrqptjre5nw12f5czvzc6b">
         <img alt="Solima Spoti list" title="Solima Spoti list" src="https://readme-spotify.warengonzaga.com/api/spotify" />
     </a> -->
 </p>
-
+<p>
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DX50MDbDwt4w8" target="blank">
+        <img alt="Mix Music" title="Mix Music" src="https://media.tenor.com/XLnJxScKc3EAAAAC/car-animation.gif" style="width:402px;" />
+    </a>
+</p>
 ## Technologies
 
 ### Programming Languages and Tools

@@ -4,7 +4,7 @@
 
 <!--Social media-->
 <p align="center">
-    <!--<a href="https://facebook.com/mosh3eb" target="blank"><img alt="facebook" title="facebookfacebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;-->
+    <!--<a href="https://facebook.com/" target="blank"><img alt="facebook" title="facebookfacebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;-->
   <a href="mailto:alancontato03@gmail.com" target="blank"><img alt="gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://twitter.com/alansolimaa" target="blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -133,86 +133,6 @@ A  Trainee/Junior Back-End Developer, Tech Lover, Analysis and Systems Developme
     </p>
 </div>
 
-<!-- ## ₣rameworks -->
-<!--Framworks section-->
-<!-- <div align="left">-->
-<!--     <a href="https://github.com/search?q=user%3Amosh3eb+language%3Abootstrap">
-        <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Aangular">
-        <img alt="angular.js" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ACoder2Mo+language%3Avue">
-        <img alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-    </a>
-    <a href="https://github.com/search?q=user%3ACoder2Mo+language%3Areact">
-        <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    </a>
-    <a href="https://github.com/search?q=user%3ACoder2Mo+language%3Awordpress">
-        <img alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3ACoder2Mo+language%3Aflutter">
-        <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-    </a> 
-    </div> -->
-    
-<!-- ## Ṥoftwares and Design Tools -->
-<!--Softwares section-->
-<!-- <div align="left"> -->
-<!--     <a href="#">
-        <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="Visual_Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="IntelliJ_IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-    </a>
-    <a href="#">
-        <img alt="Premier" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="Effect" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
-    </a>
-    <a href="#">
-        <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="android-studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?style=for-the-badge&logo=android-studio&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="stackoverflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="gitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="#">
-        <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    </a> -->
-<!-- </div> -->
-
-
 ## :octocat: Github stats
 
 <!-- Start state -->
@@ -221,10 +141,10 @@ A  Trainee/Junior Back-End Developer, Tech Lover, Analysis and Systems Developme
   <br/>
      <div align=center>
         <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-            <img alt="Mosh3eb's state" src="https://github-readme-streak-stats.herokuapp.com/?user=alansoareslima&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/>
+            <img alt="Alan's state" src="https://github-readme-streak-stats.herokuapp.com/?user=alansoareslima&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/>
         </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mosh3eb's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alansoareslima&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mosh3eb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansoareslima&layout=compact&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/></a>
+    <a href="https://github.com/alansoareslima"><img alt="Alan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alansoareslima&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="alan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansoareslima&layout=compact&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/></a>
   <br/>
     </div>
 </details>
@@ -232,7 +152,7 @@ A  Trainee/Junior Back-End Developer, Tech Lover, Analysis and Systems Developme
 <details>
   <summary>Snake Contribution</summary>
   <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/alansoareslima" title="Go to Source">
         <img src="https://github.com/alansoareslima/alansoareslima/blob/output/github-contribution-grid-snake.svg" style="max-width:100%;">
     </a>
         </div>
@@ -261,10 +181,10 @@ if you love my work then buy me a coffee 😊 <br>
 <br>
 <div align="center">
    <a href="https://github.com/alansoareslima">
-    <img alt="GitHub" src="https://img.shields.io/github/followers/mosh3eb?style=for-the-badge&label=@alansoareslima&logo=github"/>
+    <img alt="GitHub" src="https://img.shields.io/github/followers/alansolima?style=for-the-badge&label=@alansoareslima&logo=github"/>
 </a>
 <a href="https://twitter.com/alansolimaa">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/mosh3eb?style=for-the-badge&label=@alansolimaa&logo=twitter">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/alansolima?style=for-the-badge&label=@alansolimaa&logo=twitter">
 </a>
 <a href="https://linkedin.com/in/alansoareslima">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=@alansoareslima&style=for-the-badge&color=0A66C2&logo=linkedin" />

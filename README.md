@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/alansoareslima" target="blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://instagram.com/alansolima" target="blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.buymeacoffee.com/alansolima"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
+    <a href="https://www.buymeacoffee.com/alansolima" target="blank"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 <!--End of Social media-->
 
@@ -21,12 +21,12 @@
   <a href="https://www.twitter.com/alansolimaa" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/alansolimaa?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
   </a>
-  <a href="https://www.linkedin.com/in/alansoareslima">
+  <a href="https://www.linkedin.com/in/alansoareslima" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&duration=4200&&size=24&width=500&lines=Hi+There+I+Am+Alan++;A+Back-End+Developer;Experienced+Full-Stack+Development;1,5%2B+Years+Coding+Experience;Always+Learning+New+Things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" target="blank"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&duration=4200&&size=24&width=500&lines=Hi+There+I+Am+Alan++;A+Back-End+Developer;Experienced+Full-Stack+Development;1,5%2B+Years+Coding+Experience;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 A  Trainee/Junior Back-End Developer, Tech Lover, Analysis and Systems Development Student from Sao Paulo/Brazil.
 
@@ -152,10 +152,10 @@ A  Trainee/Junior Back-End Developer, Tech Lover, Analysis and Systems Developme
   <summary>Profile Stats</summary>
   <br/>
      <div align=center>
-        <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+        <a href="https://github.com/alansoareslima" title="Go to Source" target="blank">
             <img alt="Alan's state" src="https://github-readme-streak-stats.herokuapp.com/?user=alansoareslima&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/>
         </a>
-    <a href="https://github.com/alansoareslima"><img alt="Alan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alansoareslima&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/></a>
+    <a href="https://github.com/alansoareslima" target="blank"><img alt="Alan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=alansoareslima&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="alan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansoareslima&layout=compact&theme=tokyonight&border=61dafb&hide_border=true" height="192px"/></a>
   <br/>
     </div>
@@ -164,7 +164,7 @@ A  Trainee/Junior Back-End Developer, Tech Lover, Analysis and Systems Developme
 <details>
   <summary>Snake Contribution</summary>
   <div align="center">
-    <a href="https://github.com/alansoareslima" title="Go to Source">
+    <a href="https://github.com/alansoareslima" title="Go to Source" target="blank">
         <img src="https://github.com/alansoareslima/alansoareslima/blob/output/github-contribution-grid-snake.svg" style="max-width:100%;">
     </a>
         </div>
@@ -172,7 +172,7 @@ A  Trainee/Junior Back-End Developer, Tech Lover, Analysis and Systems Developme
 <details>
     <summary>Achievements</summary>
     <div align=center>
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank">
       <img align="center alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=alansoareslima&theme=tokyonight&no-frame=true&column=7">
   </a>
     </div>
@@ -180,7 +180,7 @@ A  Trainee/Junior Back-End Developer, Tech Lover, Analysis and Systems Developme
 <details>
     <summary>Contribution Graph</summary>
     <div align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="blank">
         <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=alansoareslima&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"></a>
         </div>
 </details>
@@ -188,23 +188,23 @@ A  Trainee/Junior Back-End Developer, Tech Lover, Analysis and Systems Developme
 ## Support Me
 if you love my work then buy me a coffee 😊 <br>
 
-<a href="https://www.buymeacoffee.com/alansolima"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/alansolima" target="blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <br>
 <br>
 <div align="center">
-   <a href="https://github.com/alansoareslima">
+   <a href="https://github.com/alansoareslima" target="blank">
     <img alt="GitHub" src="https://img.shields.io/github/followers/alansolima?style=for-the-badge&label=@alansoareslima&logo=github"/>
 </a>
-<a href="https://twitter.com/alansolimaa">
+<a href="https://twitter.com/alansolimaa" target="blank">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/alansolima?style=for-the-badge&label=@alansolimaa&logo=twitter">
 </a>
-<a href="https://linkedin.com/in/alansoareslima">
+<a href="https://linkedin.com/in/alansoareslima" target="blank">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=@alansoareslima&style=for-the-badge&color=0A66C2&logo=linkedin" />
 </a>
 <!-- <a href="https://t.me/alansolima">
     <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@alansolima&style=for-the-badge&color=26A5E4&logo=telegram&logoColor=whitesmoke" />
 </a> -->
-<a href="https://www.instagram.com/alansolima/">
+<a href="https://www.instagram.com/alansolima/" target="blank">
     <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@alansolima&style=for-the-badge&color=E4405F&logo=instagram&logoColor=whitesmoke" />
 </a>
 </div>

@@ -71,6 +71,7 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
         <img alt="Mix Music" title="Mix Music" src="https://media.tenor.com/XLnJxScKc3EAAAAC/car-animation.gif" style="width:396px;" />
     </a>
 </p>
+
 ## Technologies
 
 ### Programming Languages and Tools

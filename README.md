@@ -56,7 +56,7 @@ A  Trainee/Junior Back-End Developer, Tech Lover, Analysis and Systems Developme
     <a href="https://open.spotify.com/playlist/3QSmfNR2XtpoADu0QPGVJK" target="blank"><img alt="Trending Music" title="Trending Music" src="https://img.shields.io/badge/Trending%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://open.spotify.com/playlist/37i9dQZF1DX50MDbDwt4w8" target="blank"><img alt="Mix Music" title="Mix Music" src="https://img.shields.io/badge/Mix%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://open.spotify.com/user/31g4av26k3364swn55a5u4xcxaoa"><img alt="CoderMo Spoti list" title="CoderMo Spoti list" src="https://readme-spotify.warengonzaga.com/api/spotify" /></a>
+    <a href="https://open.spotify.com/user/pk4zrqptjre5nw12f5czvzc6b"><img alt="Solima Spoti list" title="Solima Spoti list" src="https://readme-spotify.warengonzaga.com/api/spotify" /></a>
 </p>
 
 ## Technologies

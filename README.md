@@ -50,13 +50,25 @@ A  Trainee/Junior Back-End Developer, Tech Lover, Analysis and Systems Developme
 
 ## Spotify Playing 🎶
 <p align="left">
-    <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="blank"><img alt="Top Hits Music" title="Top Hits Music" src="https://img.shields.io/badge/Top%20Hits%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ" target="blank"><img alt="Programming Music" title="Programming Music" src="https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" /></a>
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="blank">
+        <img alt="Top Hits Music" title="Top Hits Music" src="https://img.shields.io/badge/Top%20Hits%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
+    </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://open.spotify.com/playlist/3QSmfNR2XtpoADu0QPGVJK" target="blank"><img alt="Trending Music" title="Trending Music" src="https://img.shields.io/badge/Trending%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"></a>
+    <a href="https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ" target="blank">
+        <img alt="Programming Music" title="Programming Music" src="https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
+    </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://open.spotify.com/playlist/37i9dQZF1DX50MDbDwt4w8" target="blank"><img alt="Mix Music" title="Mix Music" src="https://img.shields.io/badge/Mix%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://open.spotify.com/user/pk4zrqptjre5nw12f5czvzc6b"><img alt="Solima Spoti list" title="Solima Spoti list" src="https://readme-spotify.warengonzaga.com/api/spotify" /></a>
+    <a href="https://open.spotify.com/playlist/3QSmfNR2XtpoADu0QPGVJK" target="blank">
+        <img alt="Trending Music" title="Trending Music" src="https://img.shields.io/badge/Trending%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
+    </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DX50MDbDwt4w8" target="blank">
+        <img alt="Mix Music" title="Mix Music" src="https://img.shields.io/badge/Mix%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
+    </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://open.spotify.com/user/pk4zrqptjre5nw12f5czvzc6b">
+        <img alt="Solima Spoti list" title="Solima Spoti list" src="https://readme-spotify.warengonzaga.com/api/spotify" />
+    </a>
 </p>
 
 ## Technologies
@@ -101,19 +113,19 @@ A  Trainee/Junior Back-End Developer, Tech Lover, Analysis and Systems Developme
         <img src="https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original.svg" alt="subversion" width="40" height="40"/> 
       </a> 
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
       </a> 
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
       </a> 
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
       </a>  
       <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> 
       </a>
       <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
       </a> 
       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 

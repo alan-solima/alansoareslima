@@ -5,13 +5,13 @@
 <!--Social media-->
 <p align="center">
     <!--<a href="https://facebook.com/" target="blank"><img alt="facebook" title="facebookfacebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;-->
-  <a href="mailto:alancontato03@gmail.com" target="blank"><img alt="gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://twitter.com/alansolimaa" target="blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:alancontato03@gmail.com" target="_blank"><img alt="gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://twitter.com/alansolimaa" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.linkedin.com/in/alansoareslima" target="blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/alansoareslima" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://instagram.com/alansolima" target="blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.buymeacoffee.com/alansolima" target="blank"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
+    <a href="https://instagram.com/alansolima" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.buymeacoffee.com/alansolima" target="_blank"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 <!--End of Social media-->
 

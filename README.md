@@ -66,9 +66,9 @@ A  Trainee/Junior Back-End Developer, Tech Lover, Analysis and Systems Developme
         <img alt="Mix Music" title="Mix Music" src="https://img.shields.io/badge/Mix%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://open.spotify.com/user/pk4zrqptjre5nw12f5czvzc6b">
+<!--     <a href="https://open.spotify.com/user/pk4zrqptjre5nw12f5czvzc6b">
         <img alt="Solima Spoti list" title="Solima Spoti list" src="https://readme-spotify.warengonzaga.com/api/spotify" />
-    </a>
+    </a> -->
 </p>
 
 ## Technologies

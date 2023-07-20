@@ -41,9 +41,9 @@ A  Trainee/Junior Back-End Developer, Tech Lover, Analysis and Systems Developme
 
 - :mailbox: How to reach me: **alancontato03@gmail.com**.
 
-- ☕ Coffee **lover** , [buy me a coffee](https://www.buymeacoffee.com/CoderMo)!
+- ☕ Coffee **lover** , [buy me a coffee](https://www.buymeacoffee.com/alansolima)!
 
-- 💡 [More **about me**](https://www.linkedin.com/in/alansoareslima).
+- 💡 [More **about me**](https://www.linkedin.com/in/alansoareslima)
 
 
 

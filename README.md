@@ -189,10 +189,10 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
     <summary>Contribution Graph</summary>
     <div align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="blank">
-        <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=alansoareslima&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"></a>
+        <img alt="github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=alansoareslima&theme=tokyo-night"></a>
         </div>
 </details>
-                                                            
+                                                    
 ## Support Me
 if you love my work then buy me a coffee 😊 <br>
 

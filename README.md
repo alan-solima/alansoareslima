@@ -17,8 +17,9 @@
 <!--End of Social media-->
 
 <!-- About Me -->
-### <img src="https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/cat-float.gif" width="30"> About Me
-<p align="left">
+<div align="center">
+<h2><img src="https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/cat-float.gif" width="30"> About Me </h2>
+<p align="center">
   <a href="https://www.twitter.com/alansolimaa" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/alansolimaa?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
   </a>
@@ -26,9 +27,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+   
 <p align="left">
 <a href="https://git.io/typing-svg" target="blank"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&duration=4300&&size=28&width=500&lines=Hi+There,+I'm+Alan!;A+Back-End+Developer;Experienced+Full-Stack+Development;1,5%2B+Years+Coding+Experience;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
+ </div>
 A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis and Systems Development Student at Sao Paulo College of Technology (Fatec Sao Paulo).
 
 
@@ -50,14 +53,11 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
 
 
 
-
-
-## Technologies
-
-### Programming Languages and Tools
 <!--Language section-->
-<div align="left">
-    <p align="left"> 
+<div align="center">
+    <h2>Technologies</h1>
+    <p>Programming Languages and Tools</p>
+    <p align="center"> 
       <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/> 
       </a>
@@ -126,8 +126,9 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
     </p>
 </div>
 
-## 🎶 Spotify Playing
-<p align="left">
+<div align="center">
+    <h2>🎶 Spotify Playing</h1>
+<p align="center">
     <a href="https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=HROZ4_YzSh-W9k_PVxsYPA" target="blank">
         <img alt="Coding Mode" title="Coding Mode" src="https://img.shields.io/badge/Coding%20Mode-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" />
     </a>
@@ -149,12 +150,18 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
         <img alt="Mix Music" title="Mix Music" src="https://media.tenor.com/XLnJxScKc3EAAAAC/car-animation.gif" style="width:396px;" />
     </a>
 </p>
+</div>
 
-## 🎮 Discord stats 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=589904250713407574)
+<div align="center">
+    <h2>🎮 Discord stats </h2>
+  <p>
+    <img src="https://discord-readme-badge.vercel.app/api?id=589904250713407574" alt="My Discord">
+  </p>
+</div>
 
-## :octocat: Github stats
-
+<div align="center">
+    <h2>:octocat: Github stats</h2>
+</div>
 <!-- Start state -->
 <details> 
   <summary>Profile Stats</summary>
@@ -193,12 +200,14 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
         </div>
 </details>
                                                     
-## Support Me
+<div align="center">
+    <h2>Support Me</h2>
 if you love my work then buy me a coffee 😊 <br>
 
-<a href="https://www.buymeacoffee.com/alansolima" target="blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/alansolima" target="blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="175" /></a>
 <br>
 <br>
+</div>
 <div align="center">
    <a href="https://github.com/alansoareslima" target="blank">
     <img alt="GitHub" src="https://img.shields.io/github/followers/alansoareslima?style=for-the-badge&label=GitHub&logo=github"/>

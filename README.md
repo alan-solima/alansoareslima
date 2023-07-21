@@ -6,7 +6,7 @@
 <p align="center">
     <!--<a href="https://facebook.com/" target="blank"><img alt="facebook" title="facebookfacebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;-->
   <a href="mailto:alancontato03@gmail.com" target="_blank"><img alt="gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://twitter.com/alansolimaa" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+<!--     <a href="https://twitter.com/alansolimaa" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a> -->
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.linkedin.com/in/alansoareslima" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -20,9 +20,9 @@
 <div align="center">
 <h2><img src="https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/cat-float.gif" width="30"> About Me </h2>
 <p align="center">
-  <a href="https://www.twitter.com/alansolimaa" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.twitter.com/alansolimaa" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/alansolimaa?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/alansoareslima" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -212,9 +212,9 @@ if you love my work then buy me a coffee 😊 <br>
    <a href="https://github.com/alansoareslima" target="blank">
     <img alt="GitHub" src="https://img.shields.io/github/followers/alansoareslima?style=for-the-badge&label=GitHub&logo=github"/>
 </a>
-<a href="https://twitter.com/alansolimaa" target="blank">
+<!-- <a href="https://twitter.com/alansolimaa" target="blank">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/alansolimaa?style=for-the-badge&label=Twitter&logo=twitter">
-</a>
+</a> -->
 <a href="https://linkedin.com/in/alansoareslima" target="blank">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=LinkedIn&style=for-the-badge&color=0A66C2&logo=linkedin" />
 </a>

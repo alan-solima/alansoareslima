@@ -99,9 +99,6 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="60" height="60"/> 
       </a> 
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
-      </a>  
       <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="60" height="60"/> 
       </a>
@@ -123,6 +120,9 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
       <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png?20180920122700" alt="netbeans" width="60" height="60"/> 
       </a> 
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
+      </a>  
     </p>
 </div>
 

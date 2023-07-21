@@ -180,7 +180,7 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
   <summary>Snake Contribution</summary>
   <div align="center">
     <a href="https://github.com/alansoareslima" title="Go to Source" target="blank">
-        <img src="https://github.com/alansoareslima/alansoareslima/blob/output/github-contribution-grid-snake.svg" style="max-width:100%;">
+        <img src="https://github.com/alansoareslima/alansoareslima/blob/output/github-contribution-grid-snake2.svg" style="max-width:100%;">
     </a>
         </div>
     </details>

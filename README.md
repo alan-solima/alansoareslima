@@ -43,7 +43,7 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
 
 - 💻 **Studying and Coding** whenever possible, aiming to specialize in other technologies.
 
-- :mailbox: How to reach me: **alancontato03@gmail.com**.
+- :mailbox: How to reach me: **alancontato03@gmail.com**
 
 - ☕ Coffee **lover** , [buy me a coffee](https://www.buymeacoffee.com/alansolima)!
 

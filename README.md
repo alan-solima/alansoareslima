@@ -218,9 +218,6 @@ if you love my work then buy me a coffee 😊 <br>
 <a href="https://linkedin.com/in/alansoareslima" target="blank">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=LinkedIn&style=for-the-badge&color=0A66C2&logo=linkedin" />
 </a>
-<!-- <a href="https://t.me/alansolima">
-    <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@alansolima&style=for-the-badge&color=26A5E4&logo=telegram&logoColor=whitesmoke" />
-</a> -->
 <a href="https://www.instagram.com/alansolima/" target="blank">
     <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=Instagram&style=for-the-badge&color=E4405F&logo=instagram&logoColor=whitesmoke" />
 </a>

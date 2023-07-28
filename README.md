@@ -50,8 +50,6 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
 
 
 
-
-
 <!--Language section-->
 <div align="center">
     <h2>Technologies</h1>

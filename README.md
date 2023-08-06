@@ -208,9 +208,6 @@ if you love my work then buy me a coffee 😊 <br>
    <a href="https://github.com/alansoareslima" target="blank">
     <img alt="GitHub" src="https://img.shields.io/github/followers/alansoareslima?style=for-the-badge&label=GitHub&logo=github"/>
 </a>
-<!-- <a href="https://twitter.com/alansolimaa" target="blank">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/alansolimaa?style=for-the-badge&label=Twitter&logo=twitter">
-</a> -->
 <a href="https://linkedin.com/in/alansoareslima" target="blank">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=LinkedIn&style=for-the-badge&color=0A66C2&logo=linkedin" />
 </a>
@@ -226,6 +223,3 @@ if you love my work then buy me a coffee 😊 <br>
 <div align="center">
     <img src="https://github.com/tthn0/tthn0/blob/main/Images/Rainbow.gif" width="100%">
             </div>
-                          
-                                                     
-                                                                                                                                

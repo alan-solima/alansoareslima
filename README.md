@@ -18,9 +18,6 @@
 <div align="center">
 <h2><img src="https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/cat-float.gif" width="30"> About Me </h2>
 <p align="center">
-<!--   <a href="https://www.twitter.com/alansolimaa" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/alansolimaa?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
-  </a> -->
   <a href="https://www.linkedin.com/in/alansoareslima" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -137,9 +134,6 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
         <img alt="Top Gear" title="Top Gear" src="https://img.shields.io/badge/Top%20Gear%20Soundtrack-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white">
     </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--     <a href="https://open.spotify.com/user/pk4zrqptjre5nw12f5czvzc6b">
-        <img alt="Solima Spoti list" title="Solima Spoti list" src="https://readme-spotify.warengonzaga.com/api/spotify" />
-    </a> -->
 </p>
 <p>
     <a href="" target="blank">

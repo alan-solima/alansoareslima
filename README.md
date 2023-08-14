@@ -11,7 +11,6 @@
     <a href="https://instagram.com/alansolima" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.buymeacoffee.com/alansolima" target="_blank"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
-
 <!--End of Social media-->
 
 <!-- About Me -->

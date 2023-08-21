@@ -28,7 +28,6 @@
  </div>
 A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis and Systems Development Student at Sao Paulo College of Technology (Fatec Sao Paulo).
 
-
 - :telescope: I’m working as a **Full-stack Developer**, developing and modifying layouts in **Front-End**, contributing to **Back-End** for **building and maintenance web applications** and participating in **Data Manipulation** for **creation of tables with inserts, deletes and updates** in database (MySQL and IBM DB2).
 
 - :seedling: **Exploring** a new world of possibilities.
@@ -42,8 +41,6 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
 - ☕ Coffee **lover**, [buy me a coffee](https://www.buymeacoffee.com/alansolima)!
 
 - 💡 [More **about me**](https://www.linkedin.com/in/alansoareslima)
-
-
 
 <!--Language section-->
 <div align="center">

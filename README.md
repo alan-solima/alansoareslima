@@ -148,6 +148,7 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
 <div align="center">
     <h2>:octocat: Github stats</h2>
 </div>
+
 <!-- Start state -->
 <details> 
   <summary>Profile Stats</summary>

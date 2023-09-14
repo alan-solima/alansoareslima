@@ -210,7 +210,7 @@ if you love my work then buy me a coffee 😊 <br>
 <div align="center">
   <img src="https://github.com/tthn0/tthn0/blob/main/Images/Gradients.png"/>
             </div>
-<div align="center">
+
     <!-- <img src="https://github.com/tthn0/tthn0/blob/main/Images/Miscellaneous/Rainbow.gif" width="100%"> -->
-    ![image](https://github.com/alansoareslima/alansoareslima/assets/87402658/21c33bcf-f436-4765-8e7e-fff20ac219c3)
-</div>
+![image](https://github.com/alansoareslima/alansoareslima/assets/87402658/21c33bcf-f436-4765-8e7e-fff20ac219c3)
+

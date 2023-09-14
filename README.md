@@ -32,7 +32,7 @@ A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis 
 
 - :seedling: **Exploring** a new world of possibilities.
 
-- :zap: In my **free time**, I go to the **Gym**, usually read **Books**, listen to **Music** and a lot of things else.
+- :zap: In my **free time**, I go to the **Gym**, I usually read **Books**, I listen to **Music** and a lot of things else.
 
 - 💻 **Studying and Coding** whenever possible, aiming to specialize in other technologies.
 

@@ -211,5 +211,5 @@ if you love my work then buy me a coffee 😊 <br>
   <img src="https://github.com/tthn0/tthn0/blob/main/Images/Gradients.png"/>
             </div>
 <div align="center">
-    <img src="https://github.com/tthn0/tthn0/blob/main/Images/Rainbow.gif" width="100%">
+    <img src="https://github.com/tthn0/tthn0/blob/main/Images/Miscellaneous/Rainbow.gif" width="100%">
             </div>

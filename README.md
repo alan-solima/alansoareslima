@@ -26,7 +26,7 @@
 <a href="https://git.io/typing-svg" target="blank"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&&size=28&width=600&lines=Hi+There,+I'm+Alan!;A+Back-End+Developer;Experienced+Full-Stack+Development;1,5%2B+Years+Coding+Experience;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
  </div>
-A Trainee/Junior Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis and Systems Development Student at Sao Paulo College of Technology (Fatec Sao Paulo).
+A Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis and Systems Development Student at Sao Paulo College of Technology (Fatec Sao Paulo).
 
 - :telescope: I’m working as a **Full-stack Developer**, developing and modifying layouts in **Front-End**, contributing to **Back-End** for **building and maintenance web applications** and participating in **Data Manipulation** for **creation of tables with inserts, deletes and updates** in database (MySQL and IBM DB2).
 

@@ -23,7 +23,7 @@
 </p>
    
 <p align="left">
-<a href="https://git.io/typing-svg" target="blank"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&&size=28&width=600&lines=Hi+There,+I'm+Alan!;A+Back-End+Developer;Experienced+Full-Stack+Development;1,5%2B+Years+Coding+Experience;Always+Learning+New+Things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" target="blank"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&duration=4500&&size=28&width=600&lines=Hi+There,+I'm+Alan!;A+Back-End+Developer;Experienced+Full-Stack+Development;2%2B+Years+Coding+Experience;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
  </div>
 A Back-End Developer from Sao Paulo/Brazil, Tech Lover, Analysis and Systems Development Student at Sao Paulo College of Technology (Fatec Sao Paulo).

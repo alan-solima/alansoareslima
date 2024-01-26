@@ -4,7 +4,7 @@
 
 <!--Social media-->
 <p align="center">
-  <a href="mailto:alancontato03@gmail.com" target="_blank"><img alt="gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:contact.alansoareslima@gmail.com" target="_blank"><img alt="gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.linkedin.com/in/alansoareslima" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;

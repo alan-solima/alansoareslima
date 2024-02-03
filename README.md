@@ -139,12 +139,6 @@ A Backend Developer from Sao Paulo/Brazil.
 </div>
 
 <div align="center">
-    <h2>🎮 Discord stats </h2>
-  <p>
-    <img src="https://discord-readme-badge.vercel.app/api?id=589904250713407574" alt="My Discord">
-  </p>
-</div>
-<div align="center">
     <h2>:octocat: Github stats</h2>
 </div>
 

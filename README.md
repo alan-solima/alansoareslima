@@ -36,7 +36,7 @@ A Backend Developer from Sao Paulo/Brazil.
 
 - 💻 **Studying and Coding** whenever possible, aiming to specialize in other technologies.
 
-- :mailbox: How to reach me: **alancontato03@gmail.com**
+- :mailbox: Contact me at: **contact.alansoareslima@gmail.com**
 
 - ☕ Coffee **lover**, [buy me a coffee](https://www.buymeacoffee.com/alansolima)!
 

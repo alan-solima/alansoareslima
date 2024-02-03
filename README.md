@@ -28,7 +28,7 @@
  </div>
 A Backend Developer from Sao Paulo/Brazil.
 
-- :telescope: I’m working as a **Full-stack Developer**, developing and modifying layouts in **Frontend**, contributing to **Backend** for **building and maintenance web applications** and participating in **Data Manipulation** for **creation of tables with inserts, deletes and updates** in database (MySQL and IBM DB2).
+- :telescope: I’m working as a **Full-stack Developer**, developing and modifying layouts in **Frontend**, contributing to **Backend** for **building and maintenance web applications**.
 
 - :seedling: **Exploring** a new world of possibilities.
 

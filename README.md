@@ -109,15 +109,15 @@ A Backend Developer from Sao Paulo/Brazil.
   <br/>
     </div>
 </details>
-<!-- Snake Section -->
-<details>
+<!-- Snake Section (isn't working, looking for a solution) -->
+<!--<details>
   <summary>Snake Contribution</summary>
   <div align="center">
     <a href="https://github.com/alansoareslima" title="Go to Source" target="blank">
         <img src="https://github.com/alansoareslima/alansoareslima/blob/output/github-contribution-grid-snake2.svg" style="max-width:100%;">
     </a>
         </div>
-    </details>
+    </details>-->
 <details>
     <summary>Achievements</summary>
     <div align=center>
